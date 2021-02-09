@@ -1,0 +1,2 @@
+2021/02/09 23:38:07 [emerg] 20028#15312: host not found in upstream "node1:8081" in D:\Projekty\nginx-1.18.0/conf/nginx.conf:37
+2021/02/09 23:39:13 [error] 22240#13672: *1 CreateFile() "D:\Projekty\nginx-1.18.0/html/logging/test" failed (3: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki), client: 127.0.0.1, server: localhost, request: "GET /logging/test HTTP/1.1", host: "localhost:8080"
